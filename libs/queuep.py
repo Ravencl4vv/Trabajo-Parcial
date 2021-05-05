@@ -11,7 +11,6 @@
 #     next iteration of the for-loop.
 # Each operation takes logarithmic amortized time.
 
-from __future__ import generators
 
 
 class priorityDictionary(dict):
